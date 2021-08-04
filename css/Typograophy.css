@@ -1,0 +1,108 @@
+
+body {  
+    font-family: Lufga;
+    font-weight: normal;
+}
+
+.huge-medium_text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 27px;
+}
+
+.tiny-large_text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    line-height: auto;
+    width: 650px;
+}
+
+.huge-medium_text .medium_regular {
+    width: 410px;
+}
+
+/*---------------------------- */
+
+.huge_semibold {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.large_regular {
+    font-size: 35px;
+    font-weight: normal;
+}
+
+.large_semibold {
+    font-size: 35px;
+    font-weight: 600;
+}
+
+
+.medium_semibold {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.medium_bold {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.medium_regular {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.small_regular {
+    font-size: 16px;
+    font-family: Lufga;
+    font-weight: normal;
+    line-height: 2;
+}
+
+.small_bold {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.small_semibold {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.tiny_regular {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.tiny_semibold {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.tiny_bold {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.extra-tiny_regular{
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.extra-tiny_semibold {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.extra-tiny_bold {
+    font-size: 12px;
+    font-weight: bold;
+}
