@@ -12,6 +12,14 @@ body {
     gap: 27px;
 }
 
+.large-medium_text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 37px;
+}
+
 .tiny-large_text {
     display: flex;
     flex-direction: column;
@@ -28,6 +36,27 @@ body {
 
 /*---------------------------- */
 
+
+.massive_regular {
+    font-size: 90px;
+    font-weight: normal;
+}
+
+.massive_semibold {
+    font-size: 90px;
+    font-weight: 600;
+}
+
+.extra-huge_regular {
+    font-size: 75px;
+    font-weight: normal;
+}
+
+.extra-huge_semibold {
+    font-size: 75px;
+    font-weight: 600;
+}
+
 .huge_semibold {
     font-size: 50px;
     font-weight: 600;
@@ -43,6 +72,16 @@ body {
     font-weight: 600;
 }
 
+
+.medium2_regular {
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.medium2_semibold {
+    font-size: 25px;
+    font-weight: 600;
+}
 
 .medium_semibold {
     font-size: 20px;

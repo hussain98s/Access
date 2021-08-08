@@ -1,0 +1,180 @@
+.careers_highlight_box {
+    display: flex;
+    gap: 148px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.careers_highlight {
+    width: 686.39px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    gap: 41px;
+}
+
+.careers_box {
+    width: 1083px;
+    background-color: #c4c4c4;
+    height: 567px;
+}
+
+.text_large-rectangle {
+  width: 579px;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  gap: 81px;
+}
+
+.open_roles {
+    width: 1225px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+  }
+
+  .job {
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    padding-left: 52px;
+  }
+
+  .roles_content {
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+  }
+
+  .line {
+    width: 1173px;
+    height: 1px;
+    background-color: #b1b1b1; 
+ }
+
+ .appliction_steps {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 96px;
+  }
+
+
+  .steps {
+    width: 1295px;
+    height: 1229px;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 186px;
+    padding: 0;
+  }
+
+
+  .step_rec {
+    width: 275px;
+    height: 226px;
+    flex-grow: 0;
+    background-color: #c4c4c4;
+  }
+
+  .step_text {
+    width: 300px;
+    height: 150px;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 20px 0 0;
+  }
+
+
+  .row1 {
+    height: 424px;
+    display: flex;
+    gap: 25px;
+  }  
+
+  .step1 {
+    display: flex;
+    gap: 29px;
+  }
+
+  .step2 {
+    display: flex;
+    gap: 29px;
+    padding: 198px 0 0;
+  }
+
+  .row2 {
+    display: flex;
+    flex-direction: column;
+    gap: 167px;
+    padding: 0 0 0 80px;
+  }
+  
+  .step3 {
+    display: flex;
+    gap: 29px;
+  }
+
+  .step4 {
+    display: flex;
+    gap: 29px;
+    padding: 0 0 0 387px;
+  }
+
+  .career_features {
+    display: flex;
+    flex-direction: column;
+    gap: 98px;
+  }
+
+  .career_features13 {
+    display: flex;
+    align-items: center;
+    gap: 107px;
+    padding: 0 0 0 60px;
+  }
+
+  .career_features2 {
+    display: flex;
+    align-items: center;
+    gap: 86px
+  }
+
+.career_feature_set {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.career_feature_rec {
+    width: 642px;
+    height: 577px;
+    background-color: #c4c4c4;
+  }
+
+  .car_feature {
+    display: flex;
+    gap: 24px;
+  }
+
+  .car_text {
+    width: 397px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .career_feature_icon {
+    width: 54px;
+    height: 52px;
+    background-color: #c4c4c4;
+  }

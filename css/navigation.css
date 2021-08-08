@@ -1,0 +1,17 @@
+.navigation  {
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+  }
+  
+  .nav {
+    display: flex;
+    align-items: center;
+    gap: 193px;
+  }
+  
+  .nav_links {
+    display: flex;
+    gap: 52px;
+  }
+  

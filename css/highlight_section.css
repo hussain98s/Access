@@ -1,0 +1,36 @@
+.highlight_section {
+  display: flex;
+  flex-direction: column;
+  gap: 51px;
+  margin-top: 170px;
+  align-items: flex-start;
+}
+
+.highlight_box {
+  display: flex;
+  align-items: center;
+  gap: 197px;
+  padding: 0 0 0 90px;
+}
+
+.box_highlight {
+  display: flex;
+  align-items: center;
+  gap: 116px;
+}
+
+.box {
+  width: 642px;
+  height: 577px;
+  flex-grow: 0;
+  background-color: #c4c4c4;
+}
+
+.highlight {
+  width: 370px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+

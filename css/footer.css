@@ -1,0 +1,74 @@
+.footer {
+    padding: 146px 138px 80px;
+  }
+  
+  .content {
+    display: flex;
+    gap: 570px
+  }
+  
+  .left_Side {
+    display: flex;
+    flex-direction: column;
+    gap: 228px;
+    align-items: flex-start;
+
+  }
+  
+  .access_moken {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  
+  .social {
+    width: 226px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px
+  }
+  
+  .icons {
+    width: 167px;
+    height: 41px;
+    display: flex;
+    gap: 22px;
+  }
+  
+  .text {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+
+  }
+  
+  .terms {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  
+  .right_side {
+    width: 565px;
+    display: flex;
+    gap: 103px;
+    align-items: flex-start;
+  }
+  
+  .links1 {
+    width: 104px;
+    display: flex;
+    flex-direction: column;
+    gap: 19px; 
+    align-items: flex-start;
+  }
+
+  
+  .link {
+    text-align: left;
+    width: 161px;
+    height: 20px;
+  }
+  

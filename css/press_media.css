@@ -1,0 +1,114 @@
+.as_seen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 41px;
+    margin-top: 140px;
+}
+
+.as_seen_logos {
+    display: flex;
+    gap: 28px;
+  }
+
+  .logo2 {
+    width: 141px;
+    height: 44px;
+    background-color: #c4c4c4;
+  }
+
+  .about_access {
+      display: flex;
+      flex-direction: column;
+      gap: 34px;
+      align-items: flex-start;
+      width: 694px;
+      margin-top: 190px;
+  }
+
+  .numbers {
+    width: 1680px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 60px;
+    padding: 62px 0 82px;
+    margin-top: 177px;
+    background-color: #e2ff65;
+  }
+
+  .number_text {
+    width: 994px;
+    height: 336px;
+    display: flex;
+    gap: 100px;
+  }
+
+  .number_col1 {
+    width: 335px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 64px;
+  }
+
+  .number_col2 {
+    width: 254px;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .number_col3 {
+    width: 205px;
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+  }
+
+  .number_row {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .highlight_section {
+    gap: 239px;
+    margin-top: 234px ;
+  }
+
+  .highlight {
+    width: 470px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+  }
+
+
+  .highlight_box {
+    padding: 0px;
+    gap: 136px;
+  }
+    
+.box {
+    height: 434px;
+    width: 547px;
+}
+ 
+.press {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 77px;
+    margin-top: 190px;
+  }
+  
+  .press_date {
+    height: 20px;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+  }
+  
